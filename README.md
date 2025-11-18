@@ -156,6 +156,48 @@ My journey blends **computer science fundamentals, AI/ML, mathematics, physics, 
 </details>
 
 <details>
+  <summary align="center"><b>Projects — Highlights</b></summary>
+  <br>
+
+<div align="center">
+
+<table>
+<tr><td align="center">
+
+🎮 <b>Python Chess Engine</b><br>
+<i>Rule-accurate OOP chess logic with special moves & game-state validation</i>
+
+</td></tr>
+
+<tr><td align="center">
+
+📡 <b>ESP32 Wi-Fi Frame Sniffer</b><br>
+<i>Captures & decodes raw 802.11 packets for real network-layer learning</i>
+
+</td></tr>
+
+<tr><td align="center">
+
+🤖 <b>AI Desktop Automation Agent</b><br>
+<i>Executes OS actions using natural-language command reasoning</i>
+
+</td></tr>
+
+<tr><td align="center">
+
+🌐 <b>MERN Role-Based Web Apps</b><br>
+<i>Secure auth, modular APIs & scalable full-stack structure</i>
+
+</td></tr>
+</table>
+
+</div>
+<br>
+</details>
+
+
+
+<details>
   <summary>Quote</summary>
   <br>
   <blockquote>
