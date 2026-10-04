@@ -232,7 +232,7 @@ If you have any questions about web development, networking or AI, feel free to 
 <div align=center>
  <a href="https://www.linkedin.com/in/jay-mistry-92231b399/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
  <a href="https://leetcode.com/u/DasWissen/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_white_with_text.svg.png" alt="LeetCode" /></a>
- <a herf="https://www.chess.com/member/naughty_knight_007/" target="_blank"><img width="100px" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpNgJfyb.png" alt="Chess" /></a>
+ <a href="https://www.chess.com/member/naughty_knight_007/" target="_blank"><img width="100px" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpNgJfyb.png" alt="Chess" /></a>
 <!-- <a href="https://steamcommunity.com/profiles/76561199338000103/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a> -->
 </div>
 
